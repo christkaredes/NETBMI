@@ -1,7 +1,3 @@
-﻿// Christ Karedes
-// Assgn 4: BMI Calculator (ASP.NET)
-// Submitted: 5/19/19
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
